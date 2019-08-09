@@ -16,14 +16,14 @@ skills: 1
 This is an example exercise.
 
 `@instructions`
-
+Create a variable a, equal to 5 and print out a
 
 `@hint`
 
 
 `@pre_exercise_code`
 ```{r}
-
+b <- 5
 ```
 
 `@sample_code`
@@ -33,7 +33,8 @@ This is an example exercise.
 
 `@solution`
 ```{r}
-
+a <- 5
+a
 ```
 
 `@sct`
